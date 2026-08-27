@@ -1,0 +1,6 @@
+{
+  "name": "PTW Manager",
+  "description": "Industrial Permit to Work (PTW) and Safety Management System featuring bilingual workflows for Hot Work, Cold Work, Confined Space, Excavation, and Mechanical Isolation Certificates with analytics and real-time compliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

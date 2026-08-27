@@ -1,0 +1,16 @@
+{
+  "name": "PTW Manager - Industrial Permit to Work",
+  "short_name": "PTW Manager",
+  "description": "Industrial Permit to Work (PTW) and Safety Management System with Offline Field Support",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#06060c",
+  "theme_color": "#06b6d4",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
